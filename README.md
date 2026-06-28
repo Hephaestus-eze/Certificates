@@ -27,7 +27,7 @@ This repository contains certificates that document my continuous learning in:
 | Database Design | [📜 Certificate](DataCamp/Database-Design.pdf) | `Normalization` `Primary Keys` `Foreign Keys` `Relationships` `Schema Design` | ✅ |
 | Introduction to Relational Databases in SQL | [📜 Certificate](DataCamp/Introduction-to-Relational-Databases-in-SQL.pdf) | `Relational Databases` `Tables` `Keys` `Relationships` `Constraints` | ✅ |
 | Transactions and Error Handling in SQL Server | [📜 Certificate](DataCamp/Transactions-and-Error-Handling-in-SQL-Server.pdf) | `Transactions` `COMMIT` `ROLLBACK` `TRY...CATCH` `Error Handling` | ✅ |
-| Writing Functions and Stored Procedures in SQL Server | ✅ |
+| Writing Functions and Stored Procedures in SQL Server | [📜 Certificate](DataCamp/Writing-Functions-and-Stored-Procedures-in-SQL-Server.pdf) | `Stored Procedures` `User Functions` `Parameters` `Variables` `Execution` | ✅ |
 | Building and Optimizing Triggers in SQL Server | ✅ |
 
 ---
