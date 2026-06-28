@@ -28,7 +28,7 @@ This repository contains certificates that document my continuous learning in:
 | Introduction to Relational Databases in SQL | [📜 Certificate](DataCamp/Introduction-to-Relational-Databases-in-SQL.pdf) | `Relational Databases` `Tables` `Keys` `Relationships` `Constraints` | ✅ |
 | Transactions and Error Handling in SQL Server | [📜 Certificate](DataCamp/Transactions-and-Error-Handling-in-SQL-Server.pdf) | `Transactions` `COMMIT` `ROLLBACK` `TRY...CATCH` `Error Handling` | ✅ |
 | Writing Functions and Stored Procedures in SQL Server | [📜 Certificate](DataCamp/Writing-Functions-and-Stored-Procedures-in-SQL-Server.pdf) | `Stored Procedures` `User Functions` `Parameters` `Variables` `Execution` | ✅ |
-| Building and Optimizing Triggers in SQL Server | ✅ |
+| Building and Optimizing Triggers in SQL Server | [📜 Certificate](DataCamp/Building-and-Optimizing-Triggers-in-SQL-Server.pdf) | `Triggers` `AFTER` `INSTEAD OF` `Performance` `Optimization` | ✅ |
 
 ---
 
