@@ -23,7 +23,7 @@ This repository contains certificates that document my continuous learning in:
 | Joining Data in SQL | [📜 Certificate](DataCamp/Joining-Data-in-SQL.pdf) | `INNER JOIN` `LEFT JOIN` `RIGHT JOIN` `FULL JOIN` `UNION` | ✅ |
 | Data Manipulation in SQL | [📜 Certificate](DataCamp/Data-Manipulation-in-SQL.pdf) | `INSERT` `UPDATE` `DELETE` `Views` `CTEs` | ✅ |
 | PostgreSQL Summary Statistics and Window Functions | [📜 Certificate](DataCamp/PostgreSQL-Summary-Statistics-and-Window-Functions.pdf) | `Window Functions` `RANK` `LAG` `LEAD` `Statistics` | ✅ |
-| Functions for Manipulating Data in PostgreSQL | ✅ |
+| Functions for Manipulating Data in PostgreSQL | [📜 Certificate](DataCamp/Functions-for-Manipulating-Data-in-PostgreSQL.pdf) | `String Functions` `Date Functions` `Math Functions` `Casting` `Formatting` | ✅ |
 | Database Design | ✅ |
 | Introduction to Relational Databases in SQL | ✅ |
 | Transactions and Error Handling in SQL Server | ✅ |
