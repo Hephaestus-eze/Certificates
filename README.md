@@ -22,7 +22,7 @@ This repository contains certificates that document my continuous learning in:
 | Intermediate SQL | [📜 Certificate](DataCamp/Intermediate-SQL.pdf) | `GROUP BY` `HAVING` `CASE` `Aggregate Functions` `Subqueries` | ✅ |
 | Joining Data in SQL | [📜 Certificate](DataCamp/Joining-Data-in-SQL.pdf) | `INNER JOIN` `LEFT JOIN` `RIGHT JOIN` `FULL JOIN` `UNION` | ✅ |
 | Data Manipulation in SQL | [📜 Certificate](DataCamp/Data-Manipulation-in-SQL.pdf) | `INSERT` `UPDATE` `DELETE` `Views` `CTEs` | ✅ |
-| PostgreSQL Summary Statistics and Window Functions | ✅ |
+| PostgreSQL Summary Statistics and Window Functions | [📜 Certificate](DataCamp/PostgreSQL-Summary-Statistics-and-Window-Functions.pdf) | `Window Functions` `RANK` `LAG` `LEAD` `Statistics` | ✅ |
 | Functions for Manipulating Data in PostgreSQL | ✅ |
 | Database Design | ✅ |
 | Introduction to Relational Databases in SQL | ✅ |
