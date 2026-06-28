@@ -19,7 +19,7 @@ This repository contains certificates that document my continuous learning in:
 | Course | Certificate | Skills | Status |
 |:-------|:-----------:|:-------|:------:|
 | Introduction to SQL | [📜 Certificate](DataCamp/Introduction-to-SQL.pdf) | `SELECT` `WHERE` `ORDER BY` `LIMIT` `Aliases` | ✅ |
-| Intermediate SQL | ✅ |
+| Intermediate SQL | [📜 Certificate](DataCamp/Intermediate-SQL.pdf) | `GROUP BY` `HAVING` `CASE` `Aggregate Functions` `Subqueries` | ✅ |
 | Joining Data in SQL | ✅ |
 | Data Manipulation in SQL | ✅ |
 | PostgreSQL Summary Statistics and Window Functions | ✅ |
