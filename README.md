@@ -25,7 +25,7 @@ This repository contains certificates that document my continuous learning in:
 | PostgreSQL Summary Statistics and Window Functions | [📜 Certificate](DataCamp/PostgreSQL-Summary-Statistics-and-Window-Functions.pdf) | `Window Functions` `RANK` `LAG` `LEAD` `Statistics` | ✅ |
 | Functions for Manipulating Data in PostgreSQL | [📜 Certificate](DataCamp/Functions-for-Manipulating-Data-in-PostgreSQL.pdf) | `String Functions` `Date Functions` `Math Functions` `Casting` `Formatting` | ✅ |
 | Database Design | [📜 Certificate](DataCamp/Database-Design.pdf) | `Normalization` `Primary Keys` `Foreign Keys` `Relationships` `Schema Design` | ✅ |
-| Introduction to Relational Databases in SQL | ✅ |
+| Introduction to Relational Databases in SQL | [📜 Certificate](DataCamp/Introduction-to-Relational-Databases-in-SQL.pdf) | `Relational Databases` `Tables` `Keys` `Relationships` `Constraints` | ✅ |
 | Transactions and Error Handling in SQL Server | ✅ |
 | Writing Functions and Stored Procedures in SQL Server | ✅ |
 | Building and Optimizing Triggers in SQL Server | ✅ |
