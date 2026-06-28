@@ -16,9 +16,9 @@ This repository contains certificates that document my continuous learning in:
 
 ## SQL Courses
 
-| Course | Status |
-|---------|:------:|
-| Introduction to SQL | ✅ |
+| Course | Certificate | Skills | Status |
+|:-------|:-----------:|:-------|:------:|
+| Introduction to SQL | [📜 Certificate](DataCamp/Introduction-to-SQL.pdf) | `SELECT` `WHERE` `ORDER BY` `LIMIT` `Aliases` | ✅ |
 | Intermediate SQL | ✅ |
 | Joining Data in SQL | ✅ |
 | Data Manipulation in SQL | ✅ |
