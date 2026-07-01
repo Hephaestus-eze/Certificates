@@ -29,7 +29,7 @@ This repository contains certificates that document my continuous learning in:
 | Transactions and Error Handling in SQL Server | [📜 Certificate](DataCamp/Transactions-and-Error-Handling-in-SQL-Server.pdf) | `Transactions` `COMMIT` `ROLLBACK` `TRY...CATCH` `Error Handling` | ✅ |
 | Writing Functions and Stored Procedures in SQL Server | [📜 Certificate](DataCamp/Writing-Functions-and-Stored-Procedures-in-SQL-Server.pdf) | `Stored Procedures` `User Functions` `Parameters` `Variables` `Execution` | ✅ |
 | Building and Optimizing Triggers in SQL Server | [📜 Certificate](DataCamp/Building-and-Optimizing-Triggers-in-SQL-Server.pdf) | `Triggers` `AFTER` `INSTEAD OF` `Performance` `Optimization` | ✅ |
-
+| Data Warehousing Concepts | 📜<br>[Certificate](./certificates/data-warehousing-concepts.pdf) | `Data Warehousing` `ETL` `ELT` `Star Schema` `Snowflake Schema` `Fact Tables` `Dimension Tables` `OLAP` | ✅ |
 ---
 
 More certificates will be added as I continue my learning journey.
